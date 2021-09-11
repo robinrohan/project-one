@@ -1,0 +1,125 @@
+body{
+    padding:0;
+    margin:0;
+    font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size:50px;
+    
+}
+
+ .width{
+    width:35%;
+    float:left; 
+    margin-left:93px;
+    padding-left:40px;
+    margin-top:45Px;
+    overflow: hidden;
+ }
+ .top .width{
+     width:30%;
+     padding-left:19%;
+     padding-top:2%;
+ }
+ .ak{
+     margin-top:100px; 
+ }
+ .ak img{
+     width:29%;
+     margin-top:-510px;
+     padding-left:53%;
+ }
+
+
+ .width img {
+     width:60%;
+     padding-left:34%;
+     margin-top:-33px;
+ }
+ .top{
+     background-image:url(project/header-bg.png);
+     background-repeat:no-repeat;
+ }
+ .name{
+     font-size:100px;
+     color:tomato;
+ }
+ P{
+     color: dimgrey;
+ }
+ .two{
+     background-image:url(project/biography-bg.png);
+     background-repeat: no-repeat;
+     background-size: 100 100%;
+ }
+ section{
+     width:90%;
+     height:500px;
+     padding-bottom: 150px;
+     margin: auto;
+    
+ }
+ .link-batton{
+     text-decoration:none;
+     background-image:linear-gradient(
+        45deg, #ec5094,#ed4b72);
+     padding:10px 20px;
+     border-radius:7px;
+     color:white;
+     font-weight:bold;
+     display:inline-block;
+ }
+ .three{
+     width:80%;
+     margin:auto;
+     padding-top:2%;
+     text-align:center;  
+ }
+
+.alfa{
+        width:30%;
+        float:left;
+        padding: auto;       
+}
+ .alfa img {
+     width:88%;
+    padding-left:40%;
+     padding-top:2%; 
+ }
+ .fotter{
+    background-image: url(project/footer-bg.png);    
+ }
+ .done{
+     text-align:center;
+     font-size:20px; 
+ }
+
+.last{
+    width:60%;
+    height: 250px;
+   border-radius:20px;
+    background-image:linear-gradient(
+        45deg, #ec5094,#ed4b72);
+    margin: auto;
+    text-align: center;
+    margin-top:2%;
+    overflow: hidden;
+}
+.last p{
+    margin-top:5%;
+    font-size: 29px;
+    color: white;
+    
+}
+
+.last h2{
+    font-size:45px;
+    color: white;
+    margin-top:-1%;
+}
+.footer{
+ text-align: center;
+ font-size:26px;
+ margin-top:160px;
+}
